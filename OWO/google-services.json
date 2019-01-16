@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174164245435",
+    "firebase_url": "https://onewordenglish-ba3cd.firebaseio.com",
+    "project_id": "onewordenglish-ba3cd",
+    "storage_bucket": "onewordenglish-ba3cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174164245435:android:668a4e44cd33a204",
+        "android_client_info": {
+          "package_name": "com.example.berk.owo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174164245435-1d9omj7qpbe50f5stjkralrbr59573r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.berk.owo",
+            "certificate_hash": "a9d9acdaf9687f6478534525e8a28720d2ec3fb4"
+          }
+        },
+        {
+          "client_id": "174164245435-9hud1ml4no84fgehaienrdr3dtiaiu1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0JlmO1FTmWKXgpZPz-AL7poggcCQ0Co"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174164245435-9hud1ml4no84fgehaienrdr3dtiaiu1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
